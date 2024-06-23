@@ -1,0 +1,8 @@
+# Mengatur perilaku default untuk secara otomatis menormalkan akhir baris.
+* text=auto
+
+# Menentukan konversi akhir baris untuk jenis file tertentu.
+*.php text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
